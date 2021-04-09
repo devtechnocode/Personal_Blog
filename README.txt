@@ -1,12 +1,12 @@
 ## Welcome to my personal Blog
 
 **Main Page**
-![](/screenshot/main.png)
+![](/images/main.png)
 
 
 **About Page**
-![](/screenshot/about.png)
+![](/images/about.png)
 
 
 **Work Page**
-![](/screenshot/work.png)
+![](/images/work.png)
